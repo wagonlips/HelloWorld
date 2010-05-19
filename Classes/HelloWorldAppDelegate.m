@@ -7,6 +7,65 @@
 //
 
 #import "MyViewController.h"
+
+#import "HelloWorldAppDelegate.h"
+
+
+
+@implementation HelloWorldAppDelegate
+
+
+
+@synthesize window;
+
+@synthesize myViewController;
+
+
+
+
+
+- (void)applicationDidFinishLaunching:(UIApplication *)application {
+	
+	
+	
+    MyViewController *aViewController = [[MyViewController alloc]
+										 
+										 initWithNibName:@"MyViewController" bundle:[NSBundle mainBundle]];
+	
+    [self setMyViewController:aViewController];
+	
+    [aViewController release];
+	
+	
+	
+    UIView *controllersView = [myViewController view];
+	
+    [window addSubview:controllersView];
+	
+    [window makeKeyAndVisible];
+	
+}
+
+
+
+
+
+- (void)dealloc {
+	
+    [myViewController release];
+	
+    [window release];
+	
+    [super dealloc];
+	
+}
+
+
+
+@end
+
+/* 
+#import "MyViewController.h"
 #import "HelloWorldAppDelegate.h"
 
 @implementation HelloWorldAppDelegate
@@ -45,3 +104,4 @@
 
 
 @end
+*/

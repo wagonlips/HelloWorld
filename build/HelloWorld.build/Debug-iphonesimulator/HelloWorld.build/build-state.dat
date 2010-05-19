@@ -1,7 +1,7 @@
 THelloWorld
 v7
 r0
-t295830928.288865
+t295936467.437893
 cCheck dependencies
 cProcessInfoPlistFile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld-Info.plist
 cCompileXIB /Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib
@@ -44,16 +44,48 @@ c000000004B2B62B500000000016721E0
 t1261134517
 s23536096
 
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD3710D0000000000000110
+t1272148237
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
 N/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.h
-c000000004BF1CA4F00000000000001D1
-t1274137167
-s465
+c000000004BF3697F00000000000001E2
+t1274243455
+s482
 i<UIKit/UIKit.h>
 
 N/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m
-c000000004BF1CE5D0000000000000482
-t1274138205
-s1154
+c000000004BF369C40000000000000769
+t1274243524
+s1897
+i"MyViewController.h"
+i"HelloWorldAppDelegate.h"
 i"MyViewController.h"
 i"HelloWorldAppDelegate.h"
 
@@ -70,48 +102,48 @@ t1274046868
 s8471
 
 N/Users/sean/Documents/Xcode/HelloWorld/MyViewController.h
-c000000004BF1C90F00000000000000E6
-t1274136847
-s230
+c000000004BF369D5000000000000021E
+t1274243541
+s542
 i<UIKit/UIKit.h>
 
 N/Users/sean/Documents/Xcode/HelloWorld/MyViewController.m
-c000000004BF1C90F000000000000059E
-t1274136847
-s1438
+c000000004BF36F5D0000000000000840
+t1274244957
+s2112
 i"MyViewController.h"
 
 N/Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib
-c000000004BF1C90F000000000000186B
-t1274136847
-s6251
+c000000004BF35BC000000000000058A4
+t1274239936
+s22692
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
-t1274138128
+t1274243667
 s238
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
-t1274138128
+t1274243667
 s102
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
-t1274138128
-s19568
+t1274243667
+s20596
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
-t1274046938
+t1274243666
 s605
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib
-t1274046939
+t1274243667
 s1363
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MyViewController.nib
-t1274138082
-s1106
+t1274243667
+s3383
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
-t1274046938
+t1274243666
 s8
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
@@ -120,15 +152,15 @@ t1274138082
 s413
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
-t1274138128
-s39004
+t1274243667
+s39000
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o
-t1274138083
-s29988
+t1274243667
+s36028
 
 N/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
-t1274046942
+t1274243667
 s5948
 
 N/Users/sean/Documents/Xcode/HelloWorld/main.m
@@ -136,6 +168,10 @@ c000000004BF06994000000000000016B
 t1274046868
 s363
 i<UIKit/UIKit.h>
+
+N/var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-aldrelcwpkfnbleunpwqkktasomx/HelloWorld_Prefix.pch.gch
+t1274243390
+s13805456
 
 N/var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch.gch
 t1274046941
@@ -148,11 +184,11 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies295830928#295830928#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies295936466#295936466#0(0"0(0#1#0"4300911832#0"0#
 
 CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o /Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295830928.169453
-e295830928.251304
+s295936467.204882
+e295936467.283660
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
@@ -161,13 +197,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m: In function '-[HelloWorldAppDelegate application:didFinishLaunchingWithOptions:]':
-o/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m:37: warning: control reaches end of non-void function
-lSLF07#2@78"Compile /Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m295830928#295830928#0(280"/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m: In function '-[HelloWorldAppDelegate application:didFinishLaunchingWithOptions:]':/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m:37: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function295830928#155#125#0(6@70"/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m295830925#37#0#37#0#40"control reaches end of non-void function0(0#0#70"/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m4300911832#1961"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o0#
+lSLF07#2@78"Compile /Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m295936467#295936467#0(0"0(0#0#70"/Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m4300911832#1961"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o /Users/sean/Documents/Xcode/HelloWorld/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295830882.851115
-e295830883.415445
+s295936467.266352
+e295936467.363206
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o
@@ -176,11 +210,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/sean/Documents/Xcode/HelloWorld/MyViewController.m295830882#295830883#0(0"0(0#0#57"/Users/sean/Documents/Xcode/HelloWorld/MyViewController.m4300911832#1943"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/MyViewController.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o0#
+lSLF07#2@65"Compile /Users/sean/Documents/Xcode/HelloWorld/MyViewController.m295936467#295936467#0(0"0(0#0#57"/Users/sean/Documents/Xcode/HelloWorld/MyViewController.m4300911832#1943"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/MyViewController.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o0#
 
 CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/sean/Documents/Xcode/HelloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295739741.840901
-e295739742.062481
+s295936467.203796
+e295936467.266237
 r1
 xCompileC
 xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
@@ -189,52 +223,64 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@53"Compile /Users/sean/Documents/Xcode/HelloWorld/main.m295739741#295739742#0(0"0(0#0#45"/Users/sean/Documents/Xcode/HelloWorld/main.m4300911832#1919"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/main.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o0#
+lSLF07#2@53"Compile /Users/sean/Documents/Xcode/HelloWorld/main.m295936467#295936467#0(0"0(0#0#45"/Users/sean/Documents/Xcode/HelloWorld/main.m4300911832#1919"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch -c /Users/sean/Documents/Xcode/HelloWorld/main.m -o /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib
-s295739738.805236
-e295739739.665362
+s295936466.314508
+e295936467.193337
 r1
 xCompileXIB
 x/Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib295739738#295739739#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib4300911832#485"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib /Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib0#
+lSLF07#2@25"CompileXIB MainWindow.xib295936466#295936467#0(0"0(0#0#53"/Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib4300911832#485"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib /Users/sean/Documents/Xcode/HelloWorld/MainWindow.xib0#
 
 CCompileXIB /Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib
-s295830882.423844
-e295830882.849709
+s295936466.315225
+e295936467.203554
 r1
 xCompileXIB
 x/Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib
-lSLF07#2@31"CompileXIB MyViewController.xib295830882#295830882#0(0"0(0#0#59"/Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib28147974418923608#497"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MyViewController.nib /Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib0#
+lSLF07#2@31"CompileXIB MyViewController.xib295936466#295936467#0(0"0(0#0#59"/Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib4300911832#497"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MyViewController.nib /Users/sean/Documents/Xcode/HelloWorld/MyViewController.xib0#
 
 CGenerateDSYMFile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
-s295830928.271453
-e295830928.286035
+s295936467.419391
+e295936467.434619
 r1
 xGenerateDSYMFile
 x/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
 x/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld295830928#295830928#0(0"0(0#0#92"/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld4300911832#392"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld295936467#295936467#0(0"0(0#0#92"/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld4300911832#392"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM0#
 
 CLd /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386
-s295830928.251394
-e295830928.271331
+s295936467.363322
+e295936467.419249
 r1
 xLd
 x/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
 xnormal
 xi386
-lSLF07#2@97"Link /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld295830928#295830928#0(0"0(0#0#0"4300911832#879"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -filelist /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld0#
+lSLF07#2@97"Link /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld295936467#295936467#0(0"0(0#0#0"4300911832#879"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -filelist /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld0#
 
 CProcessInfoPlistFile /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld-Info.plist
-s295739738.684107
-e295739738.805121
+s295936466.310065
+e295936466.314427
 r1
 xProcessInfoPlistFile
 x/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
 xHelloWorld-Info.plist
-lSLF07#2@29"Process HelloWorld-Info.plist295739738#295739738#0(0"0(0#0#60"/Users/sean/Documents/Xcode/HelloWorld/HelloWorld-Info.plist12666816341278818#488"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist0#
+lSLF07#2@29"Process HelloWorld-Info.plist295936466#295936466#0(0"0(0#0#60"/Users/sean/Documents/Xcode/HelloWorld/HelloWorld-Info.plist4300911832#488"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist0#
+
+CProcessPCH /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-aldrelcwpkfnbleunpwqkktasomx/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295936190.021946
+e295936191.133632
+r1
+xProcessPCH
+x/var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-aldrelcwpkfnbleunpwqkktasomx/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch295936190#295936191#0(0"0(0#0#60"/Users/sean/Documents/Xcode/HelloWorld/HelloWorld_Prefix.pch4300911832#1806"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/sean/Documents/Xcode/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-aldrelcwpkfnbleunpwqkktasomx/HelloWorld_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s295739739.665523
@@ -250,10 +296,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile HelloWorld_Prefix.pch295739739#295739741#0(0"0(0#0#60"/Users/sean/Documents/Xcode/HelloWorld/HelloWorld_Prefix.pch4300911832#1808"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/sean/Documents/Xcode/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gdnlxizroievejhlhbyagnuqxlrs/HelloWorld_Prefix.pch.gch0#
 
 CTouch /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
-s295830928.286127
-e295830928.288821
+s295936467.434720
+e295936467.437844
 r1
 xTouch
 x/Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
-lSLF07#2@87"Touch /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app295830928#295830928#0(0"0(0#0#0"4300911832#281"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app0#
+lSLF07#2@87"Touch /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app295936467#295936467#0(0"0(0#0#0"4300911832#281"    cd /Users/sean/Documents/Xcode/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sean/Documents/Xcode/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app0#
 

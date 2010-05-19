@@ -9,7 +9,40 @@
 #import "MyViewController.h"
 
 
+
 @implementation MyViewController
+
+
+
+@synthesize textField;
+
+@synthesize label;
+
+@synthesize string;
+
+- (IBAction)changeGreeting:(id)sender {
+	
+	
+	
+    self.string = textField.text;
+	
+	
+	
+    NSString *nameString = string;
+	
+    if ([nameString length] == 0) {
+		
+        nameString = @"World";
+		
+    }
+	
+    NSString *greeting = [[NSString alloc] initWithFormat:@"Hello, %@!", nameString];
+	
+    label.text = greeting;
+	
+    [greeting release];
+	
+}
 
 /*
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
@@ -50,9 +83,31 @@
 }
 
 
-- (void)dealloc {
-    [super dealloc];
+- (BOOL)textFieldShouldReturn:(UITextField *)theTextField {
+	
+    if (theTextField == textField) {
+		
+        [textField resignFirstResponder];
+		
+    }
+	
+    return YES;
+	
 }
+
+
+- (void)dealloc {
+	
+    [textField release];
+	
+    [label release];
+	
+    [string release];
+	
+    [super dealloc];
+	
+}
+
 
 
 @end
